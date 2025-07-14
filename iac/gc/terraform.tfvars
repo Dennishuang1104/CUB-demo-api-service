@@ -1,0 +1,5 @@
+project_id   = "adept-turbine-339912"
+region       = "asia-east1"
+zone         = "asia-east1-b"
+vm_name      = "my-app-vm"
+machine_type = "e2-standard-2"
