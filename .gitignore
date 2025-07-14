@@ -1,2 +1,8 @@
 cred
 api/cred
+.idea*
+__pycache__/
+.Python
+build/
+.venv/
+venv/
